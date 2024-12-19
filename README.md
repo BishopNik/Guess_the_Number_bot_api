@@ -11,7 +11,7 @@
 git clone https://github.com/BishopNik/Guess_the_Number_bot_api.git
 
 2. Перейдіть до директорії проекту:
-   cd your-project-folder
+   cd Guess_the_Number_bot_api
 
 3. Встановіть залежності:
    npm install
@@ -20,7 +20,7 @@ git clone https://github.com/BishopNik/Guess_the_Number_bot_api.git
 
 Щоб запустити проект, виконайте наступну команду:
 
-node bot.js
+npx ts-node bot.ts
 
 Bot GameGuessTheNumber Клікніть /start
 
